@@ -1,0 +1,6 @@
+1.8.1
+dbus-dev
+pkgconfig(dbus-1)
+pkgconfig(inih)
+pkgconfig(libsystemd)
+pkgconfig(systemd)
